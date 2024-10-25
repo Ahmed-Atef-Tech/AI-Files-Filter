@@ -1,4 +1,4 @@
-**AI File Sorter Application**  
+![image](https://github.com/user-attachments/assets/af4862a0-41eb-4a10-bb2e-7557e817b9b5)**AI File Sorter Application**  
 
 This is a desktop application developed in Python using PyQt5 for the GUI. The AI File Sorter application is designed to automate the classification of image files based on user-defined categories. It uses AI-based classification models via a local server for flexible sorting, allowing you to either copy or move files to different destination folders. The application is ideal for users who need to manage and organize large collections of files more efficiently.
 
@@ -18,6 +18,8 @@ This is a desktop application developed in Python using PyQt5 for the GUI. The A
 * **Progress and Status Updates**: Real-time progress bars, status messages, and timers allow users to monitor the entire classification and sorting process.
 
 ### How It Works:
+
+![image](https://github.com/user-attachments/assets/8fa691bb-f387-4615-8648-799ca880a545)
 
 1. **Select Folders**: Users select a source folder (containing files to classify) and a destination folder (for classified files).
 2. **Define Classification Parameters**:
