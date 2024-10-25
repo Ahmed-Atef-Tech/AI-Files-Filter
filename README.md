@@ -65,4 +65,4 @@ This is a desktop application developed in Python using PyQt5 for the GUI. The A
 
 ### License
 
-Feel free to use, modify, and distribute this application for non-commercial purposes. Please refer to the included LICENSE file for more details.
+Feel free to use, modify, and distribute this application for non-commercial purposes.
